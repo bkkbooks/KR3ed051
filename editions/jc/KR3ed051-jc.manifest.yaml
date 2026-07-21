@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ed051_000-jc.yaml, hash: 'sha256:af566a0f2954558649a88eb9ea480a8e44e0b2eb104cd08a7773714a5fe1a1bc'}
+  - {seq: 0, filename: KR3ed051_000-jc.yaml, hash: 'sha256:d59788f885d6ca66c3fd34f0bbab5c5d2a6a821841d5b8b060f88f15709eb680'}
   - {seq: 1, filename: KR3ed051_001-jc.yaml, hash: 'sha256:d952822ed4a8bd709662a42681e91f3b31670b9d8c7e3cfce023bc01d534cffa'}
   - {seq: 2, filename: KR3ed051_002-jc.yaml, hash: 'sha256:a8c951323f3d23f01ab2b9f57a404cad471c8b02dc3adf1aff2c3d258a81d846'}
   - {seq: 3, filename: KR3ed051_003-jc.yaml, hash: 'sha256:c61ba88274166539c98294e1c02206276deb4bbae276c280c718844048c077bf'}
   - {seq: 4, filename: KR3ed051_004-jc.yaml, hash: 'sha256:aa9d8ab4baa340965d1aff1c4665629fac91e0b82450ea6e2d7ce8710b266a95'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed051_000-jc.markers.yaml, hash: 'sha256:dfd398935e31aa93812319cbd3694a6a389336658fc641d31f7e22552d3eab23'}
+  - {seq: 0, role: markers, filename: assets/KR3ed051_000-jc.markers.yaml, hash: 'sha256:3d2eecee24ddeabf1a3c6a26258590c4de79cf984fde17e6b0555c59c172ac3e'}
   - {seq: 1, role: markers, filename: assets/KR3ed051_001-jc.markers.yaml, hash: 'sha256:b8e2572aa42f999ea2b421f020e5ebf4dc313089e703fac132be2c5fb4a7dc36'}
   - {seq: 2, role: markers, filename: assets/KR3ed051_002-jc.markers.yaml, hash: 'sha256:ea555956015d28baac1f6411ec3e76388fdf3a5cfccbe502f5c132e294bc5320'}
   - {seq: 3, role: markers, filename: assets/KR3ed051_003-jc.markers.yaml, hash: 'sha256:c9af7676245ced1adf6f15e15c28dda17f4b3f8cbd6af42b0b895bd96b18c47f'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed051_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 314
   label: 序
@@ -839,4 +839,4 @@ table_of_contents:
   label: 急救諸方
   type: section
   level: 3
-hash: sha256:a1e3bb5fe741730bf88868382017c952d751f016acf5bcabf699b180ddb6e9c9
+hash: sha256:0bcd0ac46ceb8a3828e656f191c59bc82dc5154149b0c9862cae99fdff8096f5
